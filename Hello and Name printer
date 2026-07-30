@@ -1,0 +1,6 @@
+public class Problem1 {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+        System.out.println("Pushpita Afrin"); // You can put your own name here
+    }
+}
