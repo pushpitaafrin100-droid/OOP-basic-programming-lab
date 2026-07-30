@@ -1,2 +1,0 @@
-# OOP basic programming lab
-
